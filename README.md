@@ -3,7 +3,7 @@
 ## Learning Goals
 
 - Define _tracing_
-- Use the built-in `console` object for debugging
+- Use the built-in `console` object for debugging.
 - Demonstrate `console.log()`
 - Demonstrate `console.error()`
 - Demonstrate `console.warn()`
